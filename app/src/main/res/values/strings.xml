@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">T2</string>
+    <string name="acc_description">This is a description for the accessibility service.</string>
+</resources>
