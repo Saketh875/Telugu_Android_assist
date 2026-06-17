@@ -31,9 +31,7 @@ This project provides a simple UI to configure and run automations on a mobile d
 - Add screenshots / screen recordings here.
 
 ## Tech Stack
-- (Fill in: Android / iOS)
-- (Fill in: Flutter / React Native / Kotlin / Swift / etc.)
-
+Android ,Kotlin , Langchain
 ## Project Structure
 Below is the current file architecture (to be updated after confirming the repo tree):
 
